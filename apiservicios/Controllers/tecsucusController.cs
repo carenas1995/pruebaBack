@@ -36,6 +36,19 @@ namespace apiservicios.Controllers
             return Ok(tecsucu);
         }
 
+        // GET: api/tecsucus/5
+        [ResponseType(typeof(tecsucu))]
+        public async Task<IHttpActionResult> Gettecsucuser(int id)
+        {
+            tecsucu tecsucu = await db.tecsucu.FindAsync(id);
+            if (tecsucu == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(tecsucu);
+        }
+
         // PUT: api/tecsucus/5
         [ResponseType(typeof(void))]
         public async Task<IHttpActionResult> Puttecsucu(int id, tecsucu tecsucu)
