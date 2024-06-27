@@ -15,8 +15,12 @@ namespace apiservicios.Models
 
         public int sucursal { get; set; }
 
+        [ForeignKey("FK_sucursal")]
+        [NotMapped]
         public virtual sucursales sucursales { get; set; }
 
+        [ForeignKey("FK_tecnico")]
+        [NotMapped]
         public virtual tecnicos tecnicos { get; set; }
     }
 }

@@ -30,7 +30,7 @@ namespace apiservicios.Models
 
             modelBuilder.Entity<element>()
                 .HasMany(e => e.tecelement)
-                .WithRequired(e => e.element1)
+                .WithRequired(e => e.elements)
                 .HasForeignKey(e => e.element)
                 .WillCascadeOnDelete(false);
 

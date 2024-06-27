@@ -13,10 +13,15 @@ namespace apiservicios.Models
 
         public int tecnico { get; set; }
 
-        public int element { get; set; }
+        public int element { get; set; }      
 
-        public virtual element element1 { get; set; }
+        [ForeignKey("FK_element")]
+        [NotMapped]
+        public virtual element elements { get; set; }
 
+        [ForeignKey("FK_tecnico2")]
+        [NotMapped]
         public virtual tecnicos tecnicos { get; set; }
+
     }
 }

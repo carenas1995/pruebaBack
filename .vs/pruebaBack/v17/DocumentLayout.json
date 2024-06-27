@@ -3,56 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\controllers\\tecsucuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\controllers\\tecsucuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\models\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\models\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\controllers\\tecelementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\controllers\\tecelementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\areas\\helppage\\apidescriptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\areas\\helppage\\apidescriptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\models\\tecelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\models\\tecelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\models\\tecelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\models\\tecsucu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\models\\tecsucu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\controllers\\tecnicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\controllers\\tecnicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\areas\\helppage\\modeldescriptions\\modeldescriptiongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\areas\\helppage\\modeldescriptions\\modeldescriptiongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\controllers\\elementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\controllers\\elementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\areas\\helppage\\samplegeneration\\helppagesamplegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\areas\\helppage\\samplegeneration\\helppagesamplegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\areas\\helppage\\app_start\\helppageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\areas\\helppage\\app_start\\helppageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|c:\\users\\usuario\\desktop\\projects\\gestion fanca s.a.s\\pruebaback\\apiservicios\\models\\sucursales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\models\\sucursales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CA29D8-F610-4EFA-8120-3096F0FFF0DA}|apiservicios\\apiservicios.csproj|solutionrelative:apiservicios\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\pruebaCrud.Models\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,102 +42,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "apiservicios\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "apiservicios\\Controllers\\ValuesController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAkAAAAXAAAA",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\pruebaCrud.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "pruebaCrud.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\pruebaCrud.Models\\Class1.cs",
+              "RelativeToolTip": "pruebaCrud.Models\\Class1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:35:17.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T05:19:54.002Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "tecelementsController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\tecelementsController.cs",
-              "RelativeDocumentMoniker": "apiservicios\\Controllers\\tecelementsController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\tecelementsController.cs",
-              "RelativeToolTip": "apiservicios\\Controllers\\tecelementsController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAgAAAA",
+              "DocumentIndex": 2,
+              "Title": "ModelDescriptionGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Areas\\HelpPage\\ModelDescriptions\\ModelDescriptionGenerator.cs",
+              "RelativeDocumentMoniker": "apiservicios\\Areas\\HelpPage\\ModelDescriptions\\ModelDescriptionGenerator.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Areas\\HelpPage\\ModelDescriptions\\ModelDescriptionGenerator.cs",
+              "RelativeToolTip": "apiservicios\\Areas\\HelpPage\\ModelDescriptions\\ModelDescriptionGenerator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:04:54.412Z",
+              "WhenOpened": "2024-06-27T17:14:21.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Datamodel.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\Datamodel.cs",
-              "RelativeDocumentMoniker": "apiservicios\\Models\\Datamodel.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\Datamodel.cs",
-              "RelativeToolTip": "apiservicios\\Models\\Datamodel.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIA/wB8AAAAqAAAA",
+              "Title": "HelpPageSampleGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Areas\\HelpPage\\SampleGeneration\\HelpPageSampleGenerator.cs",
+              "RelativeDocumentMoniker": "apiservicios\\Areas\\HelpPage\\SampleGeneration\\HelpPageSampleGenerator.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Areas\\HelpPage\\SampleGeneration\\HelpPageSampleGenerator.cs",
+              "RelativeToolTip": "apiservicios\\Areas\\HelpPage\\SampleGeneration\\HelpPageSampleGenerator.cs",
+              "ViewState": "AQIAAGsBAAAAAAAAAAAnwIABAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:04:22.378Z",
+              "WhenOpened": "2024-06-27T17:14:01.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "element.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\element.cs",
-              "RelativeDocumentMoniker": "apiservicios\\Models\\element.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\element.cs",
-              "RelativeToolTip": "apiservicios\\Models\\element.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAIA3wB4AAAAvAAAA",
+              "DocumentIndex": 4,
+              "Title": "HelpPageConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Areas\\HelpPage\\App_Start\\HelpPageConfig.cs",
+              "RelativeDocumentMoniker": "apiservicios\\Areas\\HelpPage\\App_Start\\HelpPageConfig.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Areas\\HelpPage\\App_Start\\HelpPageConfig.cs",
+              "RelativeToolTip": "apiservicios\\Areas\\HelpPage\\App_Start\\HelpPageConfig.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAADoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:10:18.539Z",
+              "WhenOpened": "2024-06-27T17:13:56.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sucursales.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\sucursales.cs",
+              "RelativeDocumentMoniker": "apiservicios\\Models\\sucursales.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\sucursales.cs",
+              "RelativeToolTip": "apiservicios\\Models\\sucursales.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:09:14.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "sucursalesController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\sucursalesController.cs",
-              "RelativeDocumentMoniker": "apiservicios\\Controllers\\sucursalesController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\sucursalesController.cs",
-              "RelativeToolTip": "apiservicios\\Controllers\\sucursalesController.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAowHEAAAAZAAAA",
+              "Title": "tecsucu.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\tecsucu.cs",
+              "RelativeDocumentMoniker": "apiservicios\\Models\\tecsucu.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\tecsucu.cs",
+              "RelativeToolTip": "apiservicios\\Models\\tecsucu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T06:50:20.154Z",
+              "WhenOpened": "2024-06-27T17:04:33.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "tecsucusController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\tecsucusController.cs",
-              "RelativeDocumentMoniker": "apiservicios\\Controllers\\tecsucusController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\tecsucusController.cs*",
-              "RelativeToolTip": "apiservicios\\Controllers\\tecsucusController.cs*",
-              "ViewState": "AQIAABsAAAAAAAAAAADwvyoAAAA5AAAA",
+              "Title": "tecelement.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\tecelement.cs",
+              "RelativeDocumentMoniker": "apiservicios\\Models\\tecelement.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\tecelement.cs",
+              "RelativeToolTip": "apiservicios\\Models\\tecelement.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T06:51:17.199Z",
+              "WhenOpened": "2024-06-27T17:04:02.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ApiDescriptionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Areas\\HelpPage\\ApiDescriptionExtensions.cs",
-              "RelativeDocumentMoniker": "apiservicios\\Areas\\HelpPage\\ApiDescriptionExtensions.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Areas\\HelpPage\\ApiDescriptionExtensions.cs",
-              "RelativeToolTip": "apiservicios\\Areas\\HelpPage\\ApiDescriptionExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:49:48.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "apiservicios\\App_Start\\WebApiConfig.cs",
@@ -171,82 +146,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T07:50:02.669Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "apiservicios\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "apiservicios\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:49:56.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "tecelement.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\tecelement.cs",
-              "RelativeDocumentMoniker": "apiservicios\\Models\\tecelement.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Models\\tecelement.cs",
-              "RelativeToolTip": "apiservicios\\Models\\tecelement.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:39:02.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "apiservicios\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "apiservicios\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:35:29.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "tecnicosController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\tecnicosController.cs",
-              "RelativeDocumentMoniker": "apiservicios\\Controllers\\tecnicosController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\tecnicosController.cs",
-              "RelativeToolTip": "apiservicios\\Controllers\\tecnicosController.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAgwFIAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T06:51:01.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "elementsController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\elementsController.cs",
-              "RelativeDocumentMoniker": "apiservicios\\Controllers\\elementsController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\apiservicios\\Controllers\\elementsController.cs",
-              "RelativeToolTip": "apiservicios\\Controllers\\elementsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T06:50:39.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\pruebaCrud.Models\\Class1.cs",
-              "RelativeDocumentMoniker": "pruebaCrud.Models\\Class1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Projects\\Gestion Fanca S.A.S\\pruebaBack\\pruebaCrud.Models\\Class1.cs",
-              "RelativeToolTip": "pruebaCrud.Models\\Class1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T05:19:54.002Z"
             }
           ]
         }
