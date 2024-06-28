@@ -13,7 +13,9 @@ namespace apiservicios.Models
 
         public int tecnico { get; set; }
 
-        public int element { get; set; }      
+        public int element { get; set; }
+
+        public long cantidad { get; set; }
 
         [ForeignKey("FK_element")]
         [NotMapped]
